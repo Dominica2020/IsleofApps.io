@@ -1,4 +1,4 @@
-<h1 align="center">Isle of Apps</h1>
+<h1 align="center"> <img align="center" src="palm5.png" alt="dominica" height="30" width="30" /> Isle of Apps</h1>
 
 ## About
 Making technology a breeze by providing smooth, reliable, fast & customized tech services. Clients save time by cutting out the middleman.
@@ -16,5 +16,5 @@ Making technology a breeze by providing smooth, reliable, fast & customized tech
 
 ## Contact:
 <p align="left">
-<a href="https://linkedin.com/in/dominicap" target="blank"><img align="center" src="linkedin.png" alt="dominica" height="80" width="80" /></a>
+<a href="https://linkedin.com/in/dominicap" target="blank"><img align="center" src="palm5.png" alt="dominica" height="80" width="80" /></a>
 </p>
