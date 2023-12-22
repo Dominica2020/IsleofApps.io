@@ -16,5 +16,5 @@ Making technology a breeze by providing smooth, reliable, fast & customized tech
 
 ## Contact:
 <p align="left">
-<a href="https://linkedin.com/in/dominicap" target="blank"><img align="center" src="palm5.png" alt="dominica" height="80" width="80" /></a>
+<a href="https://linkedin.com/in/dominica4realestate" target="blank"><img align="center" src="palm5.png" alt="dominica" height="80" width="80" /></a>
 </p>
